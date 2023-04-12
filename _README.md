@@ -1,7 +1,3 @@
-# q_en_q
-Playground for data exercises with jq xq yq and the alike hence Q & Q https://nl.wikipedia.org/wiki/Q_%26_Q
-
-# context
 source:
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms762271(v=vs.85)
 
@@ -28,7 +24,3 @@ wc -l ProteinEntry.json
 
 source:
 https://www.ashbyhq.com/blog/engineering/jq-and-yq
-
-# todo
-
-Test with data in `~/testdata/ftp.koop.overheid.nl`

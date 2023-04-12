@@ -1,0 +1,422 @@
+{
+    "@id": "JQ1042",
+    "header": {
+        "uid": "JQ1042",
+        "accession": [
+            "A46609",
+            "JQ1042",
+            "JN0072",
+            "JQ1082",
+            "B45481"
+        ],
+        "created_date": "10-Sep-1999",
+        "seq-rev_date": "10-Sep-1999",
+        "txt-rev_date": "21-Jul-2000"
+    },
+    "protein": {
+        "name": "endothelin receptor B precursor"
+    },
+    "organism": {
+        "source": "human",
+        "common": "man",
+        "formal": "Homo sapiens"
+    },
+    "reference": [
+        {
+            "refinfo": {
+                "@refid": "A46609",
+                "authors": {
+                    "author": [
+                        "Arai, H.",
+                        "Nakao, K.",
+                        "Takaya, K.",
+                        "Hosoda, K.",
+                        "Ogawa, Y.",
+                        "Nakanishi, S.",
+                        "Imura, H."
+                    ]
+                },
+                "citation": "J. Biol. Chem.",
+                "volume": "268",
+                "year": "1993",
+                "pages": "3463-3470",
+                "title": "The human endothelin-B receptor gene. Structural organization and chromosomal assignment.",
+                "xrefs": {
+                    "xref": {
+                        "db": "MUID",
+                        "uid": "93155196"
+                    }
+                }
+            },
+            "accinfo": {
+                "@label": "ARA",
+                "accession": "A46609",
+                "status": "preliminary",
+                "mol-type": "DNA",
+                "seq-spec": "1-442",
+                "xrefs": {
+                    "xref": [
+                        {
+                            "db": "GB",
+                            "uid": "D13168"
+                        },
+                        {
+                            "db": "NID",
+                            "uid": "g285924"
+                        },
+                        {
+                            "db": "PIDN",
+                            "uid": "BAA02445.1"
+                        },
+                        {
+                            "db": "PID",
+                            "uid": "g285926"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "refinfo": {
+                "@refid": "JQ1042",
+                "authors": {
+                    "author": [
+                        "Ogawa, Y.",
+                        "Nakao, K.",
+                        "Arai, H.",
+                        "Nakagawa, O.",
+                        "Hosoda, K.",
+                        "Suga, S.",
+                        "Nakanishi, S.",
+                        "Imura, H."
+                    ]
+                },
+                "citation": "Biochem. Biophys. Res. Commun.",
+                "volume": "178",
+                "year": "1991",
+                "pages": "248-255",
+                "title": "Molecular cloning of a non-isopeptide-selective human endothelin receptor.",
+                "xrefs": {
+                    "xref": {
+                        "db": "MUID",
+                        "uid": "91298956"
+                    }
+                }
+            },
+            "accinfo": {
+                "@label": "OGA",
+                "accession": "JQ1042",
+                "mol-type": "mRNA",
+                "seq-spec": "1-442",
+                "xrefs": {
+                    "xref": [
+                        {
+                            "db": "GB",
+                            "uid": "D90402"
+                        },
+                        {
+                            "db": "NID",
+                            "uid": "g219651"
+                        },
+                        {
+                            "db": "PIDN",
+                            "uid": "BAA14398.1"
+                        },
+                        {
+                            "db": "PID",
+                            "uid": "g219652"
+                        }
+                    ]
+                },
+                "exp-source": "placenta"
+            }
+        },
+        {
+            "refinfo": {
+                "@refid": "JN0072",
+                "authors": {
+                    "author": [
+                        "Nakamuta, M.",
+                        "Takayanagi, R.",
+                        "Sakai, Y.",
+                        "Sakamoto, S.",
+                        "Hagiwara, H.",
+                        "Mizuno, T.",
+                        "Saito, Y.",
+                        "Hirose, S.",
+                        "Yamamoto, M.",
+                        "Nawata, H."
+                    ]
+                },
+                "citation": "Biochem. Biophys. Res. Commun.",
+                "volume": "177",
+                "year": "1991",
+                "pages": "34-39",
+                "title": "Cloning and sequence analysis of a cDNA encoding human non-selective type of endothelin receptor.",
+                "xrefs": {
+                    "xref": {
+                        "db": "MUID",
+                        "uid": "91254298"
+                    }
+                }
+            },
+            "accinfo": {
+                "@label": "NAK",
+                "accession": "JN0072",
+                "mol-type": "mRNA",
+                "seq-spec": "1-442",
+                "xrefs": {
+                    "xref": [
+                        {
+                            "db": "GB",
+                            "uid": "M74921"
+                        },
+                        {
+                            "db": "NID",
+                            "uid": "g182275"
+                        },
+                        {
+                            "db": "PIDN",
+                            "uid": "AAA58465.1"
+                        },
+                        {
+                            "db": "PID",
+                            "uid": "g182276"
+                        }
+                    ]
+                },
+                "exp-source": "liver"
+            }
+        },
+        {
+            "refinfo": {
+                "@refid": "JQ1082",
+                "authors": {
+                    "author": [
+                        "Sakamoto, A.",
+                        "Yanagisawa, M.",
+                        "Sakurai, T.",
+                        "Takuwa, Y.",
+                        "Yanagisawa, H.",
+                        "Masaki, T."
+                    ]
+                },
+                "citation": "Biochem. Biophys. Res. Commun.",
+                "volume": "178",
+                "year": "1991",
+                "pages": "656-663",
+                "title": "Cloning and functional expression of human cDNA for the ETB endothelin receptor.",
+                "xrefs": {
+                    "xref": {
+                        "db": "MUID",
+                        "uid": "91315496"
+                    }
+                }
+            },
+            "accinfo": {
+                "@label": "SAK",
+                "accession": "JQ1082",
+                "mol-type": "mRNA",
+                "seq-spec": "1-9,'P',11-442",
+                "xrefs": {
+                    "xref": [
+                        {
+                            "db": "GB",
+                            "uid": "S44866"
+                        },
+                        {
+                            "db": "NID",
+                            "uid": "g233233"
+                        },
+                        {
+                            "db": "PIDN",
+                            "uid": "AAB19411.1"
+                        },
+                        {
+                            "db": "PID",
+                            "uid": "g233234"
+                        }
+                    ]
+                },
+                "exp-source": "jejunum"
+            }
+        },
+        {
+            "refinfo": {
+                "@refid": "A45481",
+                "authors": {
+                    "author": [
+                        "Elshourbagy, N.A.",
+                        "Korman, D.R.",
+                        "Wu, H.L.",
+                        "Sylvester, D.R.",
+                        "Lee, J.A.",
+                        "Nuthalaganti, P.",
+                        "Bergsma, D.J.",
+                        "Kumar, C.S.",
+                        "Nambi, P."
+                    ]
+                },
+                "citation": "J. Biol. Chem.",
+                "volume": "268",
+                "year": "1993",
+                "pages": "3873-3879",
+                "title": "Molecular characterization and regulation of the human endothelin receptors.",
+                "xrefs": {
+                    "xref": {
+                        "db": "MUID",
+                        "uid": "93179382"
+                    }
+                }
+            },
+            "accinfo": {
+                "@label": "ELS",
+                "accession": "B45481",
+                "status": "preliminary",
+                "mol-type": "mRNA",
+                "seq-spec": "1-442",
+                "xrefs": {
+                    "xref": [
+                        {
+                            "db": "GB",
+                            "uid": "L06623"
+                        },
+                        {
+                            "db": "NID",
+                            "uid": "g181958"
+                        },
+                        {
+                            "db": "PIDN",
+                            "uid": "AAA52342.1"
+                        },
+                        {
+                            "db": "PID",
+                            "uid": "g181959"
+                        }
+                    ]
+                },
+                "exp-source": "lung",
+                "note": "sequence extracted from NCBI backbone (NCBIN:125754, NCBIP:125755)"
+            }
+        }
+    ],
+    "comment": "This endothelin receptor is non-isopeptide selective.",
+    "genetics": {
+        "gene": [
+            {
+                "db": "GDB",
+                "uid": "EDNRB"
+            },
+            {
+                "db": "GDB",
+                "uid": "ETB"
+            }
+        ],
+        "xrefs": {
+            "xref": [
+                {
+                    "db": "GDB",
+                    "uid": "129075"
+                },
+                {
+                    "db": "OMIM",
+                    "uid": "131244"
+                }
+            ]
+        },
+        "map-position": "13q22-13q22"
+    },
+    "classification": {
+        "superfamily": "endothelin receptor B"
+    },
+    "keywords": {
+        "keyword": [
+            "G protein-coupled receptor",
+            "glycoprotein",
+            "phosphoprotein",
+            "transmembrane protein"
+        ]
+    },
+    "feature": [
+        {
+            "@label": "SIG",
+            "feature-type": "domain",
+            "description": "signal sequence",
+            "seq-spec": "1-26",
+            "status": "predicted"
+        },
+        {
+            "@label": "MAT",
+            "feature-type": "product",
+            "description": "endothelin receptor B",
+            "seq-spec": "27-442",
+            "status": "predicted"
+        },
+        {
+            "@label": "TM1",
+            "feature-type": "domain",
+            "description": "transmembrane",
+            "seq-spec": "102-127",
+            "status": "predicted"
+        },
+        {
+            "@label": "TM2",
+            "feature-type": "domain",
+            "description": "transmembrane",
+            "seq-spec": "138-163",
+            "status": "predicted"
+        },
+        {
+            "@label": "TM3",
+            "feature-type": "domain",
+            "description": "transmembrane",
+            "seq-spec": "176-197",
+            "status": "predicted"
+        },
+        {
+            "@label": "TM4",
+            "feature-type": "domain",
+            "description": "transmembrane",
+            "seq-spec": "219-243",
+            "status": "predicted"
+        },
+        {
+            "@label": "TM5",
+            "feature-type": "domain",
+            "description": "transmembrane",
+            "seq-spec": "272-296",
+            "status": "predicted"
+        },
+        {
+            "@label": "TM6",
+            "feature-type": "domain",
+            "description": "transmembrane",
+            "seq-spec": "325-350",
+            "status": "predicted"
+        },
+        {
+            "@label": "TM7",
+            "feature-type": "domain",
+            "description": "transmembrane",
+            "seq-spec": "363-389",
+            "status": "predicted"
+        },
+        {
+            "feature-type": "binding-site",
+            "description": "carbohydrate (Asn) (covalent)",
+            "seq-spec": "59",
+            "status": "predicted"
+        },
+        {
+            "feature-type": "binding-site",
+            "description": "phosphate (Ser) (covalent)",
+            "seq-spec": "305,413,419,435,436,440",
+            "status": "predicted"
+        }
+    ],
+    "summary": {
+        "length": "442",
+        "type": "complete"
+    },
+    "sequence": "MQPPPSLCGRALVALVLACGLSRIWGEERGFPPDRATPLLQTAEIMTPPTKTLWPKGSNA\nSLARSLAPAEVPKGDRTAGSPPRTISPPPCQGPIEIKETFKYINTVVSCLVFVLGIIGNS\nTLLRIIYKNKCMRNGPNILIASLALGDLLHIVIDIPINVYKLLAEDWPFGAEMCKLVPFI\nQKASVGITVLSLCALSIDRYRAVASWSRIKGIGVPKWTAVEIVLIWVVSVVLAVPEAIGF\nDIITMDYKGSYLRICLLHPVQKTAFMQFYKTAKDWWLFSFYFCLPLAITAFFYTLMTCEM\nLRKKSGMQIALNDHLKQRREVAKTVFCLVLVFALCWLPLHLSRILKLTLYNQNDPNRCEL\nLSFLLVLDYIGINMASLNSCINPIALYLVSKRFKNCFKSCLCCWCQSFEEKQSLEEKQSC\nLKFKANDHGYDNFRSSNKYSSS"
+}
