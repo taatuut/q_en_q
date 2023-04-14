@@ -26,9 +26,30 @@ clear;date;cat psd7003.xml | xq | jq -c '.ProteinDatabase.ProteinEntry[]' > Prot
 
 wc -l ProteinEntry.json
 
+
+jq -c '.Products.Product[@id=1]' data/output/product_descriptions_de.json
+
+jq -c '.Products.Product[].@id=1' data/output/product_descriptions_de.json
+
+jq -c '.products.product[0]' data/output/product_descriptions_de.json
+jq -c '.products.product[] | select(["@id"=="1"])' data/output/product_descriptions_de.json
+gives everything
+
+jq -c '.products.product[] | select(.["@id"=="1"])' data/output/product_descriptions_de.json
+errors
+
+jq -c '.products.product[] | select([."@id"=="1"])' data/output/product_descriptions_de.json
+gives everything
+
+jq -c '.products.product[] | select(."@id"=="123")' data/output/product_descriptions_de.json
+
+jq -c '.products.product[] | select(."@id"=="123")' data/output/product_descriptions_*.json
+
+chmod +x *.cmd 
+
 source:
 https://www.ashbyhq.com/blog/engineering/jq-and-yq
 
 # todo
 
-Test with data in `~/testdata/ftp.koop.overheid.nl`
+Test with data created using `createXML.py`.
